@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="62" passed="62" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-22T22:25:03 IST" name="Default suite" finished-at="2022-09-22T22:47:40 IST" duration-ms="1356965">
+    <groups>
+    </groups>
+    <test started-at="2022-09-22T22:25:03 IST" name="Default test" finished-at="2022-09-22T22:47:40 IST" duration-ms="1356965">
+      <class name="com.myelth.tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:03 IST" name="setUp" finished-at="2022-09-22T22:25:24 IST" duration-ms="20529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoTest()[pri:1, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:24 IST" name="LogoTest" finished-at="2022-09-22T22:25:24 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:24 IST" name="finalize" finished-at="2022-09-22T22:25:24 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:24 IST" name="setUp" finished-at="2022-09-22T22:25:42 IST" duration-ms="18423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomeTextTest()[pri:2, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:42 IST" name="HomeTextTest" finished-at="2022-09-22T22:25:43 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:43 IST" name="finalize" finished-at="2022-09-22T22:25:43 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:25:43 IST" name="setUp" finished-at="2022-09-22T22:26:02 IST" duration-ms="18961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomeTest()[pri:3, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:02 IST" name="HomeTest" finished-at="2022-09-22T22:26:18 IST" depends-on-methods="com.myelth.tests.HomePageTest.HomeTextTest" duration-ms="16207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:18 IST" name="finalize" finished-at="2022-09-22T22:26:18 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:18 IST" name="setUp" finished-at="2022-09-22T22:26:37 IST" duration-ms="18881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PayersTextTest()[pri:4, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:37 IST" name="PayersTextTest" finished-at="2022-09-22T22:26:37 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayersTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:37 IST" name="finalize" finished-at="2022-09-22T22:26:38 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:38 IST" name="setUp" finished-at="2022-09-22T22:26:56 IST" duration-ms="18066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PayersTest()[pri:5, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:56 IST" name="PayersTest" finished-at="2022-09-22T22:26:58 IST" depends-on-methods="com.myelth.tests.HomePageTest.PayersTextTest" duration-ms="2158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayersTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:58 IST" name="finalize" finished-at="2022-09-22T22:26:58 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:26:58 IST" name="setUp" finished-at="2022-09-22T22:27:17 IST" duration-ms="18553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="blogTextTest()[pri:6, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:17 IST" name="blogTextTest" finished-at="2022-09-22T22:27:17 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blogTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:17 IST" name="finalize" finished-at="2022-09-22T22:27:17 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:17 IST" name="setUp" finished-at="2022-09-22T22:27:36 IST" duration-ms="18551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="BlogTest()[pri:7, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:36 IST" name="BlogTest" finished-at="2022-09-22T22:27:38 IST" depends-on-methods="com.myelth.tests.HomePageTest.blogTextTest" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlogTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:38 IST" name="finalize" finished-at="2022-09-22T22:27:38 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:38 IST" name="setUp" finished-at="2022-09-22T22:27:56 IST" duration-ms="17986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="NewsTextTest()[pri:8, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:56 IST" name="NewsTextTest" finished-at="2022-09-22T22:27:56 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewsTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:56 IST" name="finalize" finished-at="2022-09-22T22:27:56 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:27:56 IST" name="setUp" finished-at="2022-09-22T22:28:16 IST" duration-ms="19127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="NewsTest()[pri:9, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:16 IST" name="NewsTest" finished-at="2022-09-22T22:28:18 IST" depends-on-methods="com.myelth.tests.HomePageTest.NewsTextTest" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:18 IST" name="finalize" finished-at="2022-09-22T22:28:18 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:18 IST" name="setUp" finished-at="2022-09-22T22:28:36 IST" duration-ms="18010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PlatformTextTest()[pri:10, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:36 IST" name="PlatformTextTest" finished-at="2022-09-22T22:28:36 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlatformTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:36 IST" name="finalize" finished-at="2022-09-22T22:28:36 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:36 IST" name="setUp" finished-at="2022-09-22T22:28:55 IST" duration-ms="18536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PlatformTest()[pri:11, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:28:55 IST" name="PlatformTest" finished-at="2022-09-22T22:29:00 IST" depends-on-methods="com.myelth.tests.HomePageTest.PlatformTextTest" duration-ms="4687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlatformTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:00 IST" name="finalize" finished-at="2022-09-22T22:29:00 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:00 IST" name="setUp" finished-at="2022-09-22T22:29:19 IST" duration-ms="18430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ProviderTextTest()[pri:12, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:19 IST" name="ProviderTextTest" finished-at="2022-09-22T22:29:19 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProviderTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:19 IST" name="finalize" finished-at="2022-09-22T22:29:19 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:19 IST" name="setUp" finished-at="2022-09-22T22:29:37 IST" duration-ms="18620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ProviderTest()[pri:13, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:37 IST" name="ProviderTest" finished-at="2022-09-22T22:29:40 IST" depends-on-methods="com.myelth.tests.HomePageTest.ProviderTextTest" duration-ms="2040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProviderTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:40 IST" name="finalize" finished-at="2022-09-22T22:29:40 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:40 IST" name="setUp" finished-at="2022-09-22T22:29:58 IST" duration-ms="18134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EmployerTextTest()[pri:14, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:58 IST" name="EmployerTextTest" finished-at="2022-09-22T22:29:58 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployerTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:29:58 IST" name="finalize" finished-at="2022-09-22T22:30:01 IST" duration-ms="2527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:01 IST" name="setUp" finished-at="2022-09-22T22:30:19 IST" duration-ms="18424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EmployerTest()[pri:15, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:19 IST" name="EmployerTest" finished-at="2022-09-22T22:30:22 IST" depends-on-methods="com.myelth.tests.HomePageTest.EmployerTextTest" duration-ms="3498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployerTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:22 IST" name="finalize" finished-at="2022-09-22T22:30:23 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:23 IST" name="setUp" finished-at="2022-09-22T22:30:41 IST" duration-ms="18127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="footerHomeTextTest()[pri:16, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:41 IST" name="footerHomeTextTest" finished-at="2022-09-22T22:30:41 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerHomeTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:41 IST" name="finalize" finished-at="2022-09-22T22:30:41 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:30:41 IST" name="setUp" finished-at="2022-09-22T22:31:00 IST" duration-ms="18478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="footerHomeTest()[pri:17, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:00 IST" name="footerHomeTest" finished-at="2022-09-22T22:31:16 IST" depends-on-methods="com.myelth.tests.HomePageTest.footerHomeTextTest" duration-ms="16213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerHomeTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:16 IST" name="finalize" finished-at="2022-09-22T22:31:16 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:16 IST" name="setUp" finished-at="2022-09-22T22:31:35 IST" duration-ms="18416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faqsTextTest()[pri:18, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:35 IST" name="faqsTextTest" finished-at="2022-09-22T22:31:35 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faqsTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:35 IST" name="finalize" finished-at="2022-09-22T22:31:37 IST" duration-ms="2547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:37 IST" name="setUp" finished-at="2022-09-22T22:31:56 IST" duration-ms="18175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="faqsTest()[pri:19, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:56 IST" name="faqsTest" finished-at="2022-09-22T22:31:58 IST" depends-on-methods="com.myelth.tests.HomePageTest.faqsTextTest" duration-ms="2803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faqsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:31:58 IST" name="finalize" finished-at="2022-09-22T22:32:01 IST" duration-ms="2570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:01 IST" name="setUp" finished-at="2022-09-22T22:32:19 IST" duration-ms="18177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="privacyPolicyTextTest()[pri:20, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:19 IST" name="privacyPolicyTextTest" finished-at="2022-09-22T22:32:19 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacyPolicyTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:19 IST" name="finalize" finished-at="2022-09-22T22:32:20 IST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:20 IST" name="setUp" finished-at="2022-09-22T22:32:38 IST" duration-ms="17962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="privacyPolicyTest()[pri:21, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:38 IST" name="privacyPolicyTest" finished-at="2022-09-22T22:32:39 IST" depends-on-methods="com.myelth.tests.HomePageTest.privacyPolicyTextTest" duration-ms="1220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacyPolicyTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:39 IST" name="finalize" finished-at="2022-09-22T22:32:39 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:39 IST" name="setUp" finished-at="2022-09-22T22:32:57 IST" duration-ms="17977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TermsAndConditionsTextTest()[pri:22, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:57 IST" name="TermsAndConditionsTextTest" finished-at="2022-09-22T22:32:57 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TermsAndConditionsTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:57 IST" name="finalize" finished-at="2022-09-22T22:32:58 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:32:58 IST" name="setUp" finished-at="2022-09-22T22:33:16 IST" duration-ms="18369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TermsAndConditionsTest()[pri:23, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:16 IST" name="TermsAndConditionsTest" finished-at="2022-09-22T22:33:17 IST" depends-on-methods="com.myelth.tests.HomePageTest.TermsAndConditionsTextTest" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TermsAndConditionsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:17 IST" name="finalize" finished-at="2022-09-22T22:33:18 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:18 IST" name="setUp" finished-at="2022-09-22T22:33:36 IST" duration-ms="18227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUsTest()[pri:24, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:36 IST" name="contactUsTest" finished-at="2022-09-22T22:33:36 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:36 IST" name="finalize" finished-at="2022-09-22T22:33:36 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:36 IST" name="setUp" finished-at="2022-09-22T22:33:54 IST" duration-ms="18003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUsTextTest()[pri:25, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:33:54 IST" name="contactUsTextTest" finished-at="2022-09-22T22:34:11 IST" depends-on-methods="com.myelth.tests.HomePageTest.contactUsTest" duration-ms="16177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:11 IST" name="finalize" finished-at="2022-09-22T22:34:11 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:11 IST" name="setUp" finished-at="2022-09-22T22:34:29 IST" duration-ms="17898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="aboutUsTextTest()[pri:26, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:29 IST" name="aboutUsTextTest" finished-at="2022-09-22T22:34:29 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUsTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:29 IST" name="finalize" finished-at="2022-09-22T22:34:31 IST" duration-ms="2540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:31 IST" name="setUp" finished-at="2022-09-22T22:34:49 IST" duration-ms="17833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="aboutUsTest()[pri:27, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:49 IST" name="aboutUsTest" finished-at="2022-09-22T22:34:51 IST" depends-on-methods="com.myelth.tests.HomePageTest.aboutUsTextTest" duration-ms="2034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:51 IST" name="finalize" finished-at="2022-09-22T22:34:54 IST" duration-ms="2531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:34:54 IST" name="setUp" finished-at="2022-09-22T22:35:12 IST" duration-ms="17966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sliderImageTest()[pri:28, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:35:12 IST" name="sliderImageTest" finished-at="2022-09-22T22:35:34 IST" duration-ms="22531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderImageTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:35:34 IST" name="finalize" finished-at="2022-09-22T22:35:35 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:35:35 IST" name="setUp" finished-at="2022-09-22T22:35:53 IST" duration-ms="18594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sliderTextTest()[pri:29, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:35:53 IST" name="sliderTextTest" finished-at="2022-09-22T22:35:53 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderTextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:35:53 IST" name="finalize" finished-at="2022-09-22T22:35:54 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:35:54 IST" name="setUp" finished-at="2022-09-22T22:36:12 IST" duration-ms="17822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="videoDisplayTest()[pri:31, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:12 IST" name="videoDisplayTest" finished-at="2022-09-22T22:36:12 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videoDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:12 IST" name="finalize" finished-at="2022-09-22T22:36:14 IST" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:14 IST" name="setUp" finished-at="2022-09-22T22:36:33 IST" duration-ms="18723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="videofunctionalityTest()[pri:30, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:33 IST" name="videofunctionalityTest" finished-at="2022-09-22T22:36:36 IST" depends-on-methods="com.myelth.tests.HomePageTest.videoDisplayTest" duration-ms="3093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videofunctionalityTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:36 IST" name="finalize" finished-at="2022-09-22T22:36:39 IST" duration-ms="2565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:39 IST" name="setUp" finished-at="2022-09-22T22:36:57 IST" duration-ms="17907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sideNavDotsTest()[pri:32, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:57 IST" name="sideNavDotsTest" finished-at="2022-09-22T22:36:57 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sideNavDotsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:57 IST" name="finalize" finished-at="2022-09-22T22:36:58 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:36:58 IST" name="setUp" finished-at="2022-09-22T22:37:16 IST" duration-ms="18231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForCare_readMoreBtnDiplayTest()[pri:33, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:16 IST" name="searchForCare_readMoreBtnDiplayTest" finished-at="2022-09-22T22:37:16 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForCare_readMoreBtnDiplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:16 IST" name="finalize" finished-at="2022-09-22T22:37:17 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:17 IST" name="setUp" finished-at="2022-09-22T22:37:35 IST" duration-ms="17987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForCare_readMoreBtnTest()[pri:34, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:35 IST" name="searchForCare_readMoreBtnTest" finished-at="2022-09-22T22:37:36 IST" depends-on-methods="com.myelth.tests.HomePageTest.searchForCare_readMoreBtnDiplayTest" duration-ms="1744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForCare_readMoreBtnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:36 IST" name="finalize" finished-at="2022-09-22T22:37:37 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:37 IST" name="setUp" finished-at="2022-09-22T22:37:55 IST" duration-ms="18329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="accessToRealtimeCoverage_readMoreBtnDisplayTest()[pri:35, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:55 IST" name="accessToRealtimeCoverage_readMoreBtnDisplayTest" finished-at="2022-09-22T22:37:55 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessToRealtimeCoverage_readMoreBtnDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:55 IST" name="finalize" finished-at="2022-09-22T22:37:56 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:37:56 IST" name="setUp" finished-at="2022-09-22T22:38:13 IST" duration-ms="17961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="accessToRealtimeCoverage_readMoreBtnTest()[pri:36, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:13 IST" name="accessToRealtimeCoverage_readMoreBtnTest" finished-at="2022-09-22T22:38:16 IST" depends-on-methods="com.myelth.tests.HomePageTest.accessToRealtimeCoverage_readMoreBtnDisplayTest" duration-ms="2076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessToRealtimeCoverage_readMoreBtnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:16 IST" name="finalize" finished-at="2022-09-22T22:38:16 IST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:16 IST" name="setUp" finished-at="2022-09-22T22:38:35 IST" duration-ms="18413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="aggregateElectronicHealthRecords_readMoreBtnDisplayTest()[pri:37, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:35 IST" name="aggregateElectronicHealthRecords_readMoreBtnDisplayTest" finished-at="2022-09-22T22:38:35 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aggregateElectronicHealthRecords_readMoreBtnDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:35 IST" name="finalize" finished-at="2022-09-22T22:38:35 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:35 IST" name="setUp" finished-at="2022-09-22T22:38:53 IST" duration-ms="18486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="aggregateElectronicHealthRecords_readMoreBtnTest()[pri:38, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:53 IST" name="aggregateElectronicHealthRecords_readMoreBtnTest" finished-at="2022-09-22T22:38:56 IST" depends-on-methods="com.myelth.tests.HomePageTest.aggregateElectronicHealthRecords_readMoreBtnDisplayTest" duration-ms="2141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aggregateElectronicHealthRecords_readMoreBtnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:56 IST" name="finalize" finished-at="2022-09-22T22:38:58 IST" duration-ms="2560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:38:58 IST" name="setUp" finished-at="2022-09-22T22:39:16 IST" duration-ms="17868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="earnRewardsAndIncentives_readMoreBtnDisplayTest()[pri:39, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:16 IST" name="earnRewardsAndIncentives_readMoreBtnDisplayTest" finished-at="2022-09-22T22:39:16 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earnRewardsAndIncentives_readMoreBtnDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:16 IST" name="finalize" finished-at="2022-09-22T22:39:16 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:16 IST" name="setUp" finished-at="2022-09-22T22:39:35 IST" duration-ms="18146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="earnRewardsAndIncentives_readMoreBtnTest()[pri:40, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:35 IST" name="earnRewardsAndIncentives_readMoreBtnTest" finished-at="2022-09-22T22:39:37 IST" depends-on-methods="com.myelth.tests.HomePageTest.earnRewardsAndIncentives_readMoreBtnDisplayTest" duration-ms="2019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earnRewardsAndIncentives_readMoreBtnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:37 IST" name="finalize" finished-at="2022-09-22T22:39:39 IST" duration-ms="2607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:39 IST" name="setUp" finished-at="2022-09-22T22:39:57 IST" duration-ms="17722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shareHealthInformation_readMoreBtnDisplayTest()[pri:41, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:57 IST" name="shareHealthInformation_readMoreBtnDisplayTest" finished-at="2022-09-22T22:39:57 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shareHealthInformation_readMoreBtnDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:57 IST" name="finalize" finished-at="2022-09-22T22:39:57 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:39:57 IST" name="setUp" finished-at="2022-09-22T22:40:15 IST" duration-ms="18147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shareHealthInformation_readMoreBtnTest()[pri:42, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:15 IST" name="shareHealthInformation_readMoreBtnTest" finished-at="2022-09-22T22:40:19 IST" depends-on-methods="com.myelth.tests.HomePageTest.shareHealthInformation_readMoreBtnDisplayTest" duration-ms="3343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shareHealthInformation_readMoreBtnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:19 IST" name="finalize" finished-at="2022-09-22T22:40:21 IST" duration-ms="2509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:21 IST" name="setUp" finished-at="2022-09-22T22:40:39 IST" duration-ms="17626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="manageEntireFamilysHealth_readMoreBtnDisplayTest()[pri:43, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:39 IST" name="manageEntireFamilysHealth_readMoreBtnDisplayTest" finished-at="2022-09-22T22:40:39 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageEntireFamilysHealth_readMoreBtnDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:39 IST" name="finalize" finished-at="2022-09-22T22:40:41 IST" duration-ms="2510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:41 IST" name="setUp" finished-at="2022-09-22T22:40:59 IST" duration-ms="17412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="manageEntireFamilysHealth_readMoreBtnTest()[pri:44, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:40:59 IST" name="manageEntireFamilysHealth_readMoreBtnTest" finished-at="2022-09-22T22:41:00 IST" depends-on-methods="com.myelth.tests.HomePageTest.manageEntireFamilysHealth_readMoreBtnDisplayTest" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageEntireFamilysHealth_readMoreBtnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:00 IST" name="finalize" finished-at="2022-09-22T22:41:01 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:01 IST" name="setUp" finished-at="2022-09-22T22:41:18 IST" duration-ms="17784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="certificationsImageDisplayTest()[pri:45, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:18 IST" name="certificationsImageDisplayTest" finished-at="2022-09-22T22:41:21 IST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- certificationsImageDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:21 IST" name="finalize" finished-at="2022-09-22T22:41:24 IST" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:24 IST" name="setUp" finished-at="2022-09-22T22:41:42 IST" duration-ms="17920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="certificationsImageTest()[pri:46, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:42 IST" name="certificationsImageTest" finished-at="2022-09-22T22:41:45 IST" depends-on-methods="com.myelth.tests.HomePageTest.certificationsImageDisplayTest" duration-ms="3143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- certificationsImageTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:45 IST" name="finalize" finished-at="2022-09-22T22:41:48 IST" duration-ms="2536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:41:48 IST" name="setUp" finished-at="2022-09-22T22:42:06 IST" duration-ms="17969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="availableOnAppStoreImageTest()[pri:47, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:06 IST" name="availableOnAppStoreImageTest" finished-at="2022-09-22T22:42:06 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- availableOnAppStoreImageTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:06 IST" name="finalize" finished-at="2022-09-22T22:42:09 IST" duration-ms="2538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:09 IST" name="setUp" finished-at="2022-09-22T22:42:27 IST" duration-ms="17887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="availableOnAppStoreTest()[pri:48, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:27 IST" name="availableOnAppStoreTest" finished-at="2022-09-22T22:42:33 IST" depends-on-methods="com.myelth.tests.HomePageTest.availableOnAppStoreImageTest" duration-ms="5994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- availableOnAppStoreTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:33 IST" name="finalize" finished-at="2022-09-22T22:42:34 IST" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:34 IST" name="setUp" finished-at="2022-09-22T22:42:52 IST" duration-ms="17855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="GetItOnGooglePlayImageTest()[pri:49, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:52 IST" name="GetItOnGooglePlayImageTest" finished-at="2022-09-22T22:42:53 IST" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetItOnGooglePlayImageTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:53 IST" name="finalize" finished-at="2022-09-22T22:42:56 IST" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:42:56 IST" name="setUp" finished-at="2022-09-22T22:43:14 IST" duration-ms="18013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="GetItOnGooglePlayTest()[pri:50, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:14 IST" name="GetItOnGooglePlayTest" finished-at="2022-09-22T22:43:16 IST" depends-on-methods="com.myelth.tests.HomePageTest.GetItOnGooglePlayImageTest" duration-ms="2523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetItOnGooglePlayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:16 IST" name="finalize" finished-at="2022-09-22T22:43:16 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:16 IST" name="setUp" finished-at="2022-09-22T22:43:35 IST" duration-ms="18116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="copyRightTest()[pri:51, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:35 IST" name="copyRightTest" finished-at="2022-09-22T22:43:35 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyRightTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:35 IST" name="finalize" finished-at="2022-09-22T22:43:35 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:35 IST" name="setUp" finished-at="2022-09-22T22:43:53 IST" duration-ms="18141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="facebookDisplayTest()[pri:52, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:53 IST" name="facebookDisplayTest" finished-at="2022-09-22T22:43:53 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:53 IST" name="finalize" finished-at="2022-09-22T22:43:53 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:43:53 IST" name="setUp" finished-at="2022-09-22T22:44:11 IST" duration-ms="17359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="facebookTest()[pri:53, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:11 IST" name="facebookTest" finished-at="2022-09-22T22:44:13 IST" depends-on-methods="com.myelth.tests.HomePageTest.facebookDisplayTest" duration-ms="2437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:13 IST" name="finalize" finished-at="2022-09-22T22:44:14 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:14 IST" name="setUp" finished-at="2022-09-22T22:44:31 IST" duration-ms="17715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="twitterDisplayTest()[pri:54, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:31 IST" name="twitterDisplayTest" finished-at="2022-09-22T22:44:31 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:31 IST" name="finalize" finished-at="2022-09-22T22:44:32 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:32 IST" name="setUp" finished-at="2022-09-22T22:44:49 IST" duration-ms="17515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="twitterTest()[pri:55, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:49 IST" name="twitterTest" finished-at="2022-09-22T22:44:52 IST" depends-on-methods="com.myelth.tests.HomePageTest.twitterDisplayTest" duration-ms="2658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:52 IST" name="finalize" finished-at="2022-09-22T22:44:54 IST" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:44:54 IST" name="setUp" finished-at="2022-09-22T22:45:12 IST" duration-ms="17314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="instagramDisplayTest()[pri:56, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:12 IST" name="instagramDisplayTest" finished-at="2022-09-22T22:45:12 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagramDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:12 IST" name="finalize" finished-at="2022-09-22T22:45:12 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:12 IST" name="setUp" finished-at="2022-09-22T22:45:30 IST" duration-ms="17721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="instagramTest()[pri:57, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:30 IST" name="instagramTest" finished-at="2022-09-22T22:45:31 IST" depends-on-methods="com.myelth.tests.HomePageTest.instagramDisplayTest" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagramTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:31 IST" name="finalize" finished-at="2022-09-22T22:45:34 IST" duration-ms="2556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:34 IST" name="setUp" finished-at="2022-09-22T22:45:52 IST" duration-ms="18226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUs_btnDisplayTest()[pri:58, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:52 IST" name="contactUs_btnDisplayTest" finished-at="2022-09-22T22:45:52 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs_btnDisplayTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:52 IST" name="finalize" finished-at="2022-09-22T22:45:54 IST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:45:54 IST" name="setUp" finished-at="2022-09-22T22:46:12 IST" duration-ms="17871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUs_btnTest()[pri:59, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:46:12 IST" name="contactUs_btnTest" finished-at="2022-09-22T22:46:29 IST" depends-on-methods="com.myelth.tests.HomePageTest.contactUs_btnDisplayTest" duration-ms="16680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs_btnTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:46:29 IST" name="finalize" finished-at="2022-09-22T22:46:31 IST" duration-ms="2510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:46:31 IST" name="setUp" finished-at="2022-09-22T22:46:49 IST" duration-ms="17671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="arrowPreviousTest()[pri:60, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:46:49 IST" name="arrowPreviousTest" finished-at="2022-09-22T22:46:55 IST" depends-on-methods="com.myelth.tests.HomePageTest.sliderImageTest" duration-ms="6182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrowPreviousTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:46:55 IST" name="finalize" finished-at="2022-09-22T22:46:56 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:46:56 IST" name="setUp" finished-at="2022-09-22T22:47:14 IST" duration-ms="18201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="arrowNextTest()[pri:61, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:47:14 IST" name="arrowNextTest" finished-at="2022-09-22T22:47:20 IST" depends-on-methods="com.myelth.tests.HomePageTest.sliderImageTest" duration-ms="6221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrowNextTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:47:20 IST" name="finalize" finished-at="2022-09-22T22:47:21 IST" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:47:21 IST" name="setUp" finished-at="2022-09-22T22:47:39 IST" duration-ms="18816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sliderDotsTest()[pri:62, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:47:39 IST" name="sliderDotsTest" finished-at="2022-09-22T22:47:40 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderDotsTest -->
+        <test-method is-config="true" signature="finalize()[pri:0, instance:com.myelth.tests.HomePageTest@4802796d]" started-at="2022-09-22T22:47:40 IST" name="finalize" finished-at="2022-09-22T22:47:40 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalize -->
+      </class> <!-- com.myelth.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

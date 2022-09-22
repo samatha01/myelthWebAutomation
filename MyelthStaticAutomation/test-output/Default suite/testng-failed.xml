@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.myelth.tests.HomePageTest">
+        <methods>
+          <include name="accessToRealtimeCoverage_readMoreBtnDisplayTest"/>
+          <include name="contactUs_btnDisplayTest"/>
+          <include name="faqsTest"/>
+          <include name="manageEntireFamilysHealth_readMoreBtnDisplayTest"/>
+          <include name="blogTextTest"/>
+          <include name="contactUsTextTest"/>
+          <include name="LogoTest"/>
+          <include name="contactUsTest"/>
+          <include name="certificationsImageDisplayTest"/>
+          <include name="manageEntireFamilysHealth_readMoreBtnTest"/>
+          <include name="aggregateElectronicHealthRecords_readMoreBtnTest"/>
+          <include name="GetItOnGooglePlayTest"/>
+          <include name="ProviderTest"/>
+          <include name="videoDisplayTest"/>
+          <include name="ProviderTextTest"/>
+          <include name="NewsTest"/>
+          <include name="setUp"/>
+          <include name="earnRewardsAndIncentives_readMoreBtnDisplayTest"/>
+          <include name="arrowPreviousTest"/>
+          <include name="sliderDotsTest"/>
+          <include name="twitterTest"/>
+          <include name="sliderImageTest"/>
+          <include name="TermsAndConditionsTextTest"/>
+          <include name="footerHomeTextTest"/>
+          <include name="availableOnAppStoreImageTest"/>
+          <include name="certificationsImageTest"/>
+          <include name="videofunctionalityTest"/>
+          <include name="GetItOnGooglePlayImageTest"/>
+          <include name="HomeTest"/>
+          <include name="privacyPolicyTest"/>
+          <include name="sliderTextTest"/>
+          <include name="twitterDisplayTest"/>
+          <include name="shareHealthInformation_readMoreBtnTest"/>
+          <include name="searchForCare_readMoreBtnTest"/>
+          <include name="PayersTest"/>
+          <include name="copyRightTest"/>
+          <include name="faqsTextTest"/>
+          <include name="contactUs_btnTest"/>
+          <include name="sideNavDotsTest"/>
+          <include name="aboutUsTest"/>
+          <include name="PlatformTextTest"/>
+          <include name="arrowNextTest"/>
+          <include name="HomeTextTest"/>
+          <include name="TermsAndConditionsTest"/>
+          <include name="PlatformTest"/>
+          <include name="searchForCare_readMoreBtnDiplayTest"/>
+          <include name="aboutUsTextTest"/>
+          <include name="BlogTest"/>
+          <include name="footerHomeTest"/>
+          <include name="privacyPolicyTextTest"/>
+          <include name="earnRewardsAndIncentives_readMoreBtnTest"/>
+          <include name="facebookTest"/>
+          <include name="instagramDisplayTest"/>
+          <include name="aggregateElectronicHealthRecords_readMoreBtnDisplayTest"/>
+          <include name="shareHealthInformation_readMoreBtnDisplayTest"/>
+          <include name="EmployerTest"/>
+          <include name="instagramTest"/>
+          <include name="NewsTextTest"/>
+          <include name="facebookDisplayTest"/>
+          <include name="availableOnAppStoreTest"/>
+          <include name="finalize"/>
+          <include name="EmployerTextTest"/>
+          <include name="accessToRealtimeCoverage_readMoreBtnTest"/>
+          <include name="PayersTextTest"/>
+        </methods>
+      </class> <!-- com.myelth.tests.HomePageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
